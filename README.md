@@ -1,5 +1,5 @@
 # Kaggle - This repository contains jupyter notebooks from my Kaggle account
-Kaggle account link - https://www.kaggle.com/tsr564
+Kaggle account link - https://www.kaggle.com/tsr564 (latest updated notebooks)
 # List of Notebooks 
 1. Predicting News sentiments of by using word embedding created using Word2Vec model. The model is efficient in terms of training 
    time . Considering the number of records & variety of record on which the model was trained , it performs at it's best .
