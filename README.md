@@ -11,5 +11,5 @@ Kaggle account link - https://www.kaggle.com/tsr564 (latest updated notebooks)
    As a result simple linear regrssion produces a r2 score (i.e The proportion of the variance in the dependent variable that is 
    predictable from the independent variables) is above 98% . Here I've done mostly statistical analysis methods rather than
    pre-build library functions
-    Link - https://www.kaggle.com/code/tsr564/feature-creation-r2-score-98
+   Link - https://www.kaggle.com/code/tsr564/feature-creation-r2-score-98
    
